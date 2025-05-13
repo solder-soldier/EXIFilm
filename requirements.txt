@@ -1,0 +1,4 @@
+aenum=3.1.16
+pyqtdarktheme=2.1.0
+pyqt5=5.15.9
+exif=1.6.1

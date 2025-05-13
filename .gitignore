@@ -1,0 +1,7 @@
+/.devcontainer
+/build
+/managed_components
+*.lock
+__pycache__
+bot.session
+*.session
