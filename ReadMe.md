@@ -57,7 +57,7 @@ Supported cameras:
 2. Clone the repository:
 
   ```bash
-  git clone https://github.com/your-repo/Nikon_F90x.git
+  git clone https://github.com/solder-soldier/EXIFilm.git
   ```
 
 3. Navigate to the project directory:
@@ -172,7 +172,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Support
 
-For issues or questions, please open an issue on the [GitHub repository](https://github.com/your-repo/EXIFilm/issues).
+For issues or questions, please open an issue on the [GitHub repository](https://github.com/solder-soldier/EXIFilm/issues).
 
 ## Acknowledgments
 
